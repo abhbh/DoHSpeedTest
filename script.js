@@ -77,8 +77,6 @@ const dnsServers = [{
 }, {
     name: "DNS for Family", url: "https://dns-doh.dnsforfamily.com/dns-query", ips: ["94.130.180.225", "78.47.64.161"]
 }, {
-    name: "Restena", url: "https://kaitain.restena.lu/dns-query", ips: ["158.64.1.29", "158.64.1.30"]
-}, {
     name: "IIJ", url: "https://public.dns.iij.jp/dns-query", ips: ["203.180.164.45", "203.180.166.45"]
 }, {
     name: "LibreDNS", url: "https://doh.libredns.gr/dns-query", ips: ["116.202.176.26", "147.135.76.183"]
