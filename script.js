@@ -19,7 +19,8 @@
  */
 const checkButton = document.getElementById('checkButton');
 const editButton = document.getElementById('editButton');
-const topWebsites = ['google.com', 'youtube.com', 'facebook.com', 'amazon.com', 'yahoo.com', 'wikipedia.org', 'twitter.com', 'instagram.com', 'linkedin.com', 'netflix.com'];
+
+const topWebsites = ['google.com', 'youtube.com', 'facebook.com', 'amazon.com', 'yahoo.com', 'wikipedia.org', 'instagram.com', 'linkedin.com', 'netflix.com', 'abhnv.com', 'minds.md', 'subvert.fm', 'tilde.town', 'pudding.cool'];
 // Global variable to store chart instance
 const dnsServers = [{
     name: "AdGuard", url: "https://dns.adguard-dns.com/dns-query", ips: ["94.140.14.14", "94.140.15.15"]
